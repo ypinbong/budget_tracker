@@ -1,5 +1,15 @@
 <script>
-	let name = 'world';
+  let name = 'Yong';
 </script>
 
-<h1>Hello {name}!</h1>
+<nav>
+  <ul>
+    <li><a href="">Dashboard</a></li>
+  </ul>
+</nav>
+
+<style>
+  h1 {
+    background-color: aliceblue;
+  }
+</style>
